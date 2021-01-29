@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.lhy.mucAllMembers.MucAllMembersPlugin</class>
+    <name>getMucAllMember</name>
+    <description>Get Muc all members list plugin.</description>
+    <author>li hai yang</author>
+    <version>${project.version}</version>
+    <date>1/26/2021</date>
+    <minServerVersion>4.5.0</minServerVersion>
+
+</plugin>
